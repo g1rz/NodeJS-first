@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/g1rz/NodeJS-first.git"
+  },
+  "author": "g1rz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g1rz/NodeJS-first/issues"
+  },
+  "homepage": "https://github.com/g1rz/NodeJS-first#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
